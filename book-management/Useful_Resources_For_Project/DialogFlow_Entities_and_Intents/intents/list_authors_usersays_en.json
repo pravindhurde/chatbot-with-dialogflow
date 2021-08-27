@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f0217228-8d5f-4761-b78f-02cd59a7b927",
+    "data": [
+      {
+        "text": "get list of authors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb34fbb1-1aed-4913-b65e-f9ff1ef695a6",
+    "data": [
+      {
+        "text": "provide authors list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "154017d2-48cc-4de4-9bac-0c6ecf40f199",
+    "data": [
+      {
+        "text": "give me the list of authors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daff5b4b-927c-4bb8-9366-5a0a3f60b359",
+    "data": [
+      {
+        "text": "tell me which authors do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37e52d1b-5f2e-4de4-89ec-f8ea86b08fd8",
+    "data": [
+      {
+        "text": "find list of authors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

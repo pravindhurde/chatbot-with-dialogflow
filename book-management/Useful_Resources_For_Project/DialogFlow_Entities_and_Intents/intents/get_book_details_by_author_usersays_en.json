@@ -1,0 +1,70 @@
+[
+  {
+    "id": "30fd89f6-ac23-4a4b-b589-fe87e0ad0700",
+    "data": [
+      {
+        "text": "Let\u0027s select ",
+        "userDefined": false
+      },
+      {
+        "text": "bookTitle",
+        "alias": "bookTitle",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b20ae15-f28a-41ac-9ae4-89a82947b109",
+    "data": [
+      {
+        "text": "I want to know more about ",
+        "userDefined": false
+      },
+      {
+        "text": "bookTitle",
+        "alias": "bookTitle",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9611a3d5-a014-4b19-9bae-a0e67b01f85d",
+    "data": [
+      {
+        "text": "Provide details about ",
+        "userDefined": false
+      },
+      {
+        "text": "bookTitle",
+        "alias": "bookTitle",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "464ecc2f-5391-4b08-a6b4-5f22f132a732",
+    "data": [
+      {
+        "text": "bookTitle",
+        "alias": "bookTitle",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

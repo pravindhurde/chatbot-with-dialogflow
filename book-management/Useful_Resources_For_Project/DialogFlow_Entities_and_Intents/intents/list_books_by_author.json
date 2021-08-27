@@ -1,0 +1,67 @@
+{
+  "id": "0030817d-0e13-4ddd-8db0-9cd7c232077c",
+  "parentId": "ae78a988-8339-4ebc-9738-78a86b052ed4",
+  "rootParentId": "ae78a988-8339-4ebc-9738-78a86b052ed4",
+  "name": "list_books_by_author",
+  "auto": true,
+  "contexts": [
+    "list_authors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "list_authors.list_books_by_author",
+      "affectedContexts": [
+        {
+          "name": "list_books_by_author-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "eff1da73-772a-4a26-8c6f-3f27a8796c14",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "24765ce7-b8c4-44c7-b344-2e02898e71f3",
+          "required": true,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "65a67b93-3859-437e-a4b1-d92158a63129",
+  "parentId": "8070a941-fd63-493d-80c0-d78bb9173d97",
+  "rootParentId": "8070a941-fd63-493d-80c0-d78bb9173d97",
+  "name": "get_book_details_by_genre",
+  "auto": true,
+  "contexts": [
+    "list_books_by_genre-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "list_books_by_genre.get_book_details_by_genre",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "91fc663c-14ca-4863-aff1-711e680234a6",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "bookTitle",
+          "value": "$bookTitle",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

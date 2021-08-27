@@ -1,0 +1,49 @@
+{
+  "id": "6d2b2115-3866-4c5d-a921-a59d28c9de46",
+  "parentId": "0030817d-0e13-4ddd-8db0-9cd7c232077c",
+  "rootParentId": "ae78a988-8339-4ebc-9738-78a86b052ed4",
+  "name": "get_book_details_by_author",
+  "auto": true,
+  "contexts": [
+    "list_books_by_author-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "list_authors.list_books_by_author.get_book_details_by_author",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6c93558-cae9-4752-a13c-3ab18f503092",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "bookTitle",
+          "value": "$bookTitle",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

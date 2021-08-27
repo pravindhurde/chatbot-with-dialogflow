@@ -1,0 +1,134 @@
+[
+  {
+    "id": "453b7f60-c9d9-40f4-a52c-07cc5d727cdc",
+    "data": [
+      {
+        "text": "list all ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "alias": "Genre",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36f82c82-b39f-4698-8865-03d9ea2151f6",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "alias": "Genre",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e61ac6a5-590c-41e7-b114-88a659e2bb5b",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "alias": "Genre",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77bbfd35-7679-4320-a7f0-934622df368e",
+    "data": [
+      {
+        "text": "provide list of ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "alias": "Genre",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd4a2e9c-2150-44f4-bd2c-046dde949bc6",
+    "data": [
+      {
+        "text": "tell me what genre ",
+        "userDefined": false
+      },
+      {
+        "text": "books",
+        "alias": "Genre",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "631d94c4-a788-496d-81cf-a06f13775e77",
+    "data": [
+      {
+        "text": "give me all ",
+        "userDefined": false
+      },
+      {
+        "text": "genre",
+        "alias": "Genre",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " books",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
